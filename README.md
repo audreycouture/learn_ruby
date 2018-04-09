@@ -1,6 +1,8 @@
 Test First Ruby -- RSpec 3 Edition
 ==========
+##Réalisé par Audrey Couture et Maxime Malafosse
 
+==========
 ### Set up instructions
 
 1. Fork this repo
