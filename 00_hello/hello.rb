@@ -1,1 +1,9 @@
-#write your code here
+def hello
+"Hello!"
+end
+hello
+
+def greet(nom)
+"Hello, #{nom}!"
+end
+
