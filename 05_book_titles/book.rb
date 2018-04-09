@@ -5,8 +5,6 @@ class Book
     titleize(@title)
   end
 
-private
-
   def titleize(title)
     arr = ['a', 'an', 'the', 'over', 'and', 'in', 'of']
   p = title.split.each {|mot| mot.capitalize! unless arr.include? (mot.downcase)}
